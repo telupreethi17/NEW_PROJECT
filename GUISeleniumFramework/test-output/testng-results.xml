@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-31T13:23:36Z" name="Suite" finished-at="2024-05-31T13:23:53Z" duration-ms="17003">
+    <groups>
+    </groups>
+    <test started-at="2024-05-31T13:23:36Z" name="Test1" finished-at="2024-05-31T13:23:52Z" duration-ms="16415">
+      <class name="com.finsburry.scm.manufacturer.AddManufacturedAndChangePwdTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.finsburry.scm.manufacturer.AddManufacturedAndChangePwdTest@f381794]" started-at="2024-05-31T13:23:36Z" name="configBC" finished-at="2024-05-31T13:23:40Z" duration-ms="4387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.finsburry.scm.manufacturer.AddManufacturedAndChangePwdTest@f381794]" started-at="2024-05-31T13:23:40Z" name="configBM" finished-at="2024-05-31T13:23:40Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="addmnaufac()[pri:0, instance:com.finsburry.scm.manufacturer.AddManufacturedAndChangePwdTest@f381794]" started-at="2024-05-31T13:23:40Z" name="addmnaufac" finished-at="2024-05-31T13:23:51Z" duration-ms="11235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addmnaufac -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.finsburry.scm.manufacturer.AddManufacturedAndChangePwdTest@f381794]" started-at="2024-05-31T13:23:51Z" name="configAM" finished-at="2024-05-31T13:23:52Z" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.finsburry.scm.manufacturer.AddManufacturedAndChangePwdTest@f381794]" started-at="2024-05-31T13:23:52Z" name="configAC" finished-at="2024-05-31T13:23:52Z" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.finsburry.scm.manufacturer.AddManufacturedAndChangePwdTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-05-31T13:23:36Z" name="Test2" finished-at="2024-05-31T13:23:53Z" duration-ms="17003">
+      <class name="com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest@2e222612]" started-at="2024-05-31T13:23:36Z" name="configBS" finished-at="2024-05-31T13:23:36Z" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest@2e222612]" started-at="2024-05-31T13:23:36Z" name="configBC" finished-at="2024-05-31T13:23:40Z" duration-ms="4387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest@2e222612]" started-at="2024-05-31T13:23:40Z" name="configBM" finished-at="2024-05-31T13:23:40Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="addretailerTest()[pri:0, instance:com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest@2e222612]" started-at="2024-05-31T13:23:40Z" name="addretailerTest" finished-at="2024-05-31T13:23:52Z" duration-ms="12014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addretailerTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest@2e222612]" started-at="2024-05-31T13:23:52Z" name="configAM" finished-at="2024-05-31T13:23:52Z" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest@2e222612]" started-at="2024-05-31T13:23:52Z" name="configAC" finished-at="2024-05-31T13:23:53Z" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest@2e222612]" started-at="2024-05-31T13:23:53Z" name="configAS" finished-at="2024-05-31T13:23:53Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

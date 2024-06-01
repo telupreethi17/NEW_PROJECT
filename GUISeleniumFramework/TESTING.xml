@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.finsburry.scm.manufacturer.AddProductTest"/>
+      <class name="com.finsburry.scm.manufacturer.AddCategoryAndEditTest"/>
+      <class name="com.finsburry.scm.manufacturer.AddRetailerAndPostOrderTest"/>
+      <class name="com.finsburry.scm.manufacturer.AddManufacturedAndChangePwdTest"/>
+      <class name="com.finsburry.scm.manufacturer.AddUnitAndDeleteTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
